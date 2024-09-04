@@ -8,7 +8,7 @@ I've been engaged in programming for over two years since switching careers. My 
 
 
 - 🔭 I’m currently working on a secret Django-based project
-- 🌱 I’m currently learning more Docker, Linux and a bit of React-powered frontend development
+- 🌱 I’m currently learning more Docker, Linux and a bit of React-powered frontend development and Superset + Airflow
 - 👯 I’m looking to collaborate on any backend/frontend projects
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about English/Russian or French/Russian translation OR how to **ck up a job interview (I'm a prof)
