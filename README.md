@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-I've been engaged in programming for over two years since switching careers. My today's stack: Python, Django, Django REST Framework, SQLite, HTML, Celery, Redis, APScheduler, Flask, SQLAlchemy, PostgreSQL, Keycloak, Docker, I'm digging into Linux environment (Linux Mint to be specific). Apart from programming, I have 18 years of experience in translation, editing, proofreading and linguistic quality assurance. I speak English, a bit of French and Italian.
+I've been engaged in programming for over two years since switching careers. My today's stack: Python, Django, Django REST Framework, Flask, FastAPI, SQLite, HTML, Celery, Redis, APScheduler, SQLAlchemy, PostgreSQL, Keycloak, Docker, I'm digging into Linux environment (Linux Mint to be specific). Apart from programming, I have 18 years of experience in translation, editing, proofreading and linguistic quality assurance. I speak English, a bit of French and Italian.
 
 
 - 🔭 I’m currently working on a secret Django-based project
